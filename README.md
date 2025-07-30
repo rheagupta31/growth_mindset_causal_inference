@@ -42,7 +42,6 @@ These methods help estimate the **Average Treatment Effect (ATE)** of the interv
 2. Open it in **Google Colab** or JupyterLab.
 3. Run all cells.
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1TdXUyzljrLXKgmtXbkQw8oPg7vRVC5wt#scrollTo=9uvB4GlHRKjC))](https://colab.research.google.com/)
 
 ---
 
